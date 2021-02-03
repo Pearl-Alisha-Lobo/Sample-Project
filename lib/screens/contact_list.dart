@@ -2,6 +2,7 @@ import 'package:contact_appnew/screens/view_contact.dart';
 import 'package:flutter/material.dart';
 import '../models/contact.dart';
 
+//this is contactapp new barnch
 class ContactList extends StatelessWidget {
   final List<Contact> contact;
   final Function deleteTx;
